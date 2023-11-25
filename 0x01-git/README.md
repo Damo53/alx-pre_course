@@ -1,1 +1,2 @@
- second readme note 
+ second readme note
+ updated readme file
